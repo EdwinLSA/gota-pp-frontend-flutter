@@ -46,3 +46,6 @@ app.*.map.json
 
 # repo de practica aparte, no es de la app
 repo_training/
+
+# secreto local con la API key del LLM (no subir al repo)
+lib/secrets.dart

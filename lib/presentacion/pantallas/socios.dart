@@ -302,7 +302,7 @@ class _SociosState extends State<Socios> {
               child: Row(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  const Icon(Icons.check_circle, color: azulRey, size: 22),
+                  const Icon(Icons.check_circle, color: colorBoton, size: 22),
                   const SizedBox(width: 10),
                   Expanded(
                     child: Text(

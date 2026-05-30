@@ -1,4 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- necesario para que el chat pueda llamar a la API del LLM -->
+    <uses-permission android:name="android.permission.INTERNET"/>
     <application
         android:label="app_pp_sem_6"
         android:name="${applicationName}"

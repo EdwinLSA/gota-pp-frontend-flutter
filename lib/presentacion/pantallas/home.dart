@@ -335,7 +335,7 @@ class _HomeState extends State<Home> {
                   Icon(Icons.verified, color: colorBoton, size: 16),
                   SizedBox(width: 6),
                   Text(
-                    'Datos NASA + sensores',
+                    'Datos NASA',
                     style: TextStyle(
                       color: colorBoton,
                       fontSize: 12,
